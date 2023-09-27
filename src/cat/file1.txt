@@ -1,0 +1,18 @@
+This is a test file.
+It contains multiple lines of text.
+Some lines match the pattern.
+	Others do not.
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
